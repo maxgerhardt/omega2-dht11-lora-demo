@@ -8,6 +8,8 @@ Refer to the original post at https://community.onion.io/topic/2982/omega2-as-a-
 
 ![graph](https://community.onion.io/assets/uploads/files/1529839853743-allthingstalk_data.png)
 
+![board](https://raw.githubusercontent.com/maxgerhardt/omega2-dht11-lora-demo/master/schematics/omega_lora_dht11_Steckplatine.png)
+
 ### License
 
 The CBOR-CPP library is taken from https://github.com/naphaso/cbor-cpp. License is Apache 2.0. [Copyright 2014-2015 Stanislav Ovsyannikov]
