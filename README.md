@@ -2,7 +2,7 @@
 
 ### Description
 
-A simple program which just invokes the [DHT11 reader program](https://github.com/h0l0gram/omega2-checkHumidity), encodes the data using the CBOR library, and sends it over LoRa to TTN / AllThingsTalk.
+A simple program which just invokes the [DHT11 reader program](https://github.com/h0l0gram/omega2-checkHumidity), encodes the data using a [CBOR library](https://github.com/naphaso/cbor-cpp), and sends it [over LoRa to TTN]/https://github.com/maxgerhardt/omega2-lmic-lorawan) / AllThingsTalk.
 
 Refer to the original post at https://community.onion.io/topic/2982/omega2-as-a-lorawan-node/2
 
